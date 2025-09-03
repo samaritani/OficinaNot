@@ -8,4 +8,5 @@ def idade(num):
         print("Maior de Idade")
 
 print(idade(num))
+print("Hello world!")
 
